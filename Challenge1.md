@@ -17,7 +17,7 @@
  <h4>Sample Screens</h4>
     <li>Following are the output screens of the <b>AI Series Starter Kit</b> application. Since the database doesn't contain any entries, all the screens will be empty.</li>
     <li>Home page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/main.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img  alt="image" style="max-width:100%;">&nbsp;
     <li>Navigating to Admin page</li>&nbsp;
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_1.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Admin Index page</li>&nbsp;
